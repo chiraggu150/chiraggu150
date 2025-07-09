@@ -66,4 +66,4 @@ open index.html
 
 **⭐ Star this repository if you found it helpful!**
 
-*Your dayand night maker❤️ by  Chirag Gautam Sweat*
+*Your day and night maker❤️ by  Chirag Gautam*
