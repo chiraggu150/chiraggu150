@@ -5,6 +5,15 @@
 [![GLA University](https://img.shields.io/badge/University-GLA%20Mathura-orange.svg)](https://gla.ac.in/)
 [![Year](https://img.shields.io/badge/Year-2025-purple.svg)](https://github.com/chirag-gautam)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="400" height="200" />
+</div>
+
+---
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
+
 ## 📋 Table of Contents
 - [About the Project](#about-the-project)
 - [Student Profile](#student-profile)
@@ -18,7 +27,19 @@
 - [License](#license)
 - [Contact](#contact)
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Hacking Animation" width="180" height="180" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  </div>
+</div>
+
+---
+
 This repository contains an interactive profile status report for **Chirag Gautam**, a passionate Computer Science Engineering student from GLA University, Mathura. The project showcases his technical skills, academic progress, and professional development journey through dynamic visualizations and interactive elements.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Programming Code" width="300" height="200" />
+</div>
 
 ### Key Highlights:
 - ⚡ Interactive progress tracking dashboard
@@ -31,6 +52,9 @@ This repository contains an interactive profile status report for **Chirag Gauta
 
 ## 👨‍💻 Student Profile
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
+
 | **Field** | **Details** |
 |-----------|-------------|
 | **Name** | Chirag Gautam |
@@ -42,7 +66,18 @@ This repository contains an interactive profile status report for **Chirag Gauta
 | **Focus Areas** | Full-Stack Development, Problem Solving |
 | **Academic Year** | 2024-2025 |
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Matrix" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🛠️ Skills & Progress
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### 💻 Programming Languages
 - **Python** - 85% (Advanced)
@@ -68,7 +103,22 @@ This repository contains an interactive profile status report for **Chirag Gauta
 - **Leadership** - 75%
 - **Time Management** - 85%
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Cyber Security" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🚀 Technical Features
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Algorithm Visualization" width="350" height="200" />
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### 🎨 Modern UI Components
 - **Glassmorphism Design**: Frosted glass effect with backdrop blur
@@ -89,30 +139,47 @@ This repository contains an interactive profile status report for **Chirag Gauta
 - **Hover Effects**: Interactive feedback elements
 - **Scroll Animations**: Content reveals on scroll
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Code Terminal" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🎬 Media Resources
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### 🎞️ Computer Science GIFs
 The project includes various CS-related animated GIFs:
 
 1. **Coding Animation**: 
-   - Source: [Code Typing GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+   - <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Code Typing" width="200" height="150" />
    - Usage: Programming section background
 
 2. **Algorithm Visualization**:
-   - Source: [Sorting Algorithm GIF](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+   - <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Sorting Algorithm" width="200" height="150" />
    - Usage: Data structures section
 
 3. **Network Data Flow**:
-   - Source: [Network Animation](https://media.giphy.com/media/l0HlQoLBl7BUmPVVC/giphy.gif)
+   - <img src="https://media.giphy.com/media/l0HlQoLBl7BUmPVVC/giphy.gif" alt="Network Animation" width="200" height="150" />
    - Usage: Computer networks section
 
 4. **Database Operations**:
-   - Source: [Database GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+   - <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Database Operations" width="200" height="150" />
    - Usage: Database management section
 
 5. **System Architecture**:
-   - Source: [Computer System GIF](https://media.giphy.com/media/l0HlTy3zYFGrSFPFu/giphy.gif)
+   - <img src="https://media.giphy.com/media/l0HlTy3zYFGrSFPFu/giphy.gif" alt="Computer System" width="200" height="150" />
    - Usage: Operating systems section
+
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Digital Matrix" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
 
 ### 🖼️ Static Images
 - **Profile Pictures**: Professional headshots
@@ -121,7 +188,12 @@ The project includes various CS-related animated GIFs:
 - **Achievement Certificates**: Academic awards
 - **Study Setup**: Workspace organization
 
+---
+
 ## 💻 Installation & Setup
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
@@ -157,7 +229,22 @@ npm start
 npm run build
 ```
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Terminal Hacking" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🎯 Usage Guide
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlQoLBl7BUmPVVC/giphy.gif" alt="Network Flow" width="350" height="200" />
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Viewing the Report
 1. **Open** `index.html` in any modern web browser
@@ -178,7 +265,18 @@ npm run build
 - **Navigation**: Smooth scrolling between sections
 - **Responsive**: Works on all device sizes
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Code Matrix Rain" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 📁 Project Structure
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ```
 profile-status-report/
@@ -214,7 +312,18 @@ profile-status-report/
 └── package.json           # Dependencies (if using Node.js)
 ```
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="Cyber Code" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🔧 Technical Implementation
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Frontend Technologies
 - **HTML5**: Semantic markup and structure
@@ -238,7 +347,22 @@ profile-status-report/
 - ✅ Edge 90+
 - ✅ Mobile browsers
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Digital Brain" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🤝 Contributing
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlTy3zYFGrSFPFu/giphy.gif" alt="System Processing" width="350" height="200" />
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 Contributions are welcome! Please follow these guidelines:
 
@@ -263,7 +387,18 @@ Contributions are welcome! Please follow these guidelines:
 - 🎨 UI/UX enhancements
 - 🚀 Performance optimizations
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programming Magic" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 📊 Performance Metrics
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Page Load Statistics
 - **Load Time**: < 2 seconds
@@ -278,7 +413,18 @@ Contributions are welcome! Please follow these guidelines:
 - **Network Requests**: Efficient
 - **File Size**: Compressed
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/3o7aCSPqXE5C6T8tBC/giphy.gif" alt="Data Processing" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🎨 Design System
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Color Palette
 - **Primary**: #667eea (Blue gradient)
@@ -299,6 +445,14 @@ Contributions are welcome! Please follow these guidelines:
 - **Padding**: Balanced content
 - **Grid**: 12-column layout
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/xT9IgEYXjQ9w8JkpoA/giphy.gif" alt="Design Code" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -311,15 +465,25 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ❌ Liability
 - ❌ Warranty
 
+---
+
 ## 📞 Contact Information
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" alt="Contact Animation" width="250" height="150" />
+</div>
 
 **Chirag Gautam**
 - 🏫 **University**: GLA University, Mathura
 - 📧 **Email**: chirag.gautam@gla.ac.in
 - 🐙 **GitHub**: [github.com/chirag-gautam](https://github.com/chirag-gautam)
 
+---
 
 ## 🎉 Acknowledgments
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Special Thanks
 - **GLA University** for providing excellent academic environment
@@ -335,7 +499,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **CSS Tricks** for design inspiration
 - **MDN Web Docs** for technical reference
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Thank You Animation" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 🚀 Future Enhancements
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 20px;">
 
 ### Planned Features
 - [ ] **Dark Mode**: Toggle between light and dark themes
@@ -352,6 +527,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] **Database**: User interaction storage
 - [ ] **Authentication**: User profiles and sessions
 
+  </div>
+  <div style="flex: 0 0 200px; margin-left: 20px;">
+    <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Future Tech" width="180" height="180" style="border-radius: 10px;" />
+  </div>
+</div>
+
+---
+
 ## 📈 Version History
 
 ### Current Version: 1.0.0
@@ -366,6 +549,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🔄 Additional skill categories
 - 🔄 Project showcase section
 - 🔄 Performance optimizations
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Final Animation" width="400" height="200" />
+</div>
 
 ---
 
